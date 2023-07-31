@@ -1,3 +1,4 @@
 # PPT to Video Converter
 Trình chuyển đổi PPT sang video
-Link data https://drive.google.com/drive/folders/1rwtqJRwNc1IpY8jC2HVI6GhkOTjbbxvJ
+Link data https://drive.google.com/drive/folders/1PyQJmkdCsAkOYwUyaj_l-l0as-iLDgeH
+Chúng ta chỉ cần vào link drive trên để tải thêm 2 file vox-adv-cpk.pth.tar và vox-cpk.pth.tar về rồi cho vào file data là được
