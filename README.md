@@ -6,3 +6,6 @@ Chúng ta chỉ cần vào link drive trên để tải thêm 2 file vox-adv-cpk
 
 Tài liệu tham khảo 
 https://github.com/AliaksandrSiarohin/first-order-model
+
+Data của nhận dạng chữ viết
+https://drive.google.com/file/d/11Hooe2i-l0bFWcFoIiCbmVheOdP6kn3b/view
